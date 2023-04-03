@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\bin\Debug\net6.0\week3RemainderOperator.exe
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\bin\Debug\net6.0\week3RemainderOperator.deps.json
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\bin\Debug\net6.0\week3RemainderOperator.runtimeconfig.json
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\bin\Debug\net6.0\week3RemainderOperator.dll
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\bin\Debug\net6.0\week3RemainderOperator.pdb
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\obj\Debug\net6.0\week3RemainderOperator.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\obj\Debug\net6.0\week3RemainderOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\obj\Debug\net6.0\week3RemainderOperator.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\obj\Debug\net6.0\week3RemainderOperator.AssemblyInfo.cs
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\obj\Debug\net6.0\week3RemainderOperator.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\obj\Debug\net6.0\week3RemainderOperator.dll
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\obj\Debug\net6.0\refint\week3RemainderOperator.dll
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\obj\Debug\net6.0\week3RemainderOperator.pdb
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\obj\Debug\net6.0\week3RemainderOperator.genruntimeconfig.cache
+C:\Users\monster\source\repos\week3Switch\week3RemainderOperator\obj\Debug\net6.0\ref\week3RemainderOperator.dll

@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\week3Switch\week3Switch\bin\Debug\net6.0\week3Switch.exe
+C:\Users\monster\source\repos\week3Switch\week3Switch\bin\Debug\net6.0\week3Switch.deps.json
+C:\Users\monster\source\repos\week3Switch\week3Switch\bin\Debug\net6.0\week3Switch.runtimeconfig.json
+C:\Users\monster\source\repos\week3Switch\week3Switch\bin\Debug\net6.0\week3Switch.dll
+C:\Users\monster\source\repos\week3Switch\week3Switch\bin\Debug\net6.0\week3Switch.pdb
+C:\Users\monster\source\repos\week3Switch\week3Switch\obj\Debug\net6.0\week3Switch.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\week3Switch\week3Switch\obj\Debug\net6.0\week3Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\week3Switch\week3Switch\obj\Debug\net6.0\week3Switch.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\week3Switch\week3Switch\obj\Debug\net6.0\week3Switch.AssemblyInfo.cs
+C:\Users\monster\source\repos\week3Switch\week3Switch\obj\Debug\net6.0\week3Switch.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\week3Switch\week3Switch\obj\Debug\net6.0\week3Switch.dll
+C:\Users\monster\source\repos\week3Switch\week3Switch\obj\Debug\net6.0\refint\week3Switch.dll
+C:\Users\monster\source\repos\week3Switch\week3Switch\obj\Debug\net6.0\week3Switch.pdb
+C:\Users\monster\source\repos\week3Switch\week3Switch\obj\Debug\net6.0\week3Switch.genruntimeconfig.cache
+C:\Users\monster\source\repos\week3Switch\week3Switch\obj\Debug\net6.0\ref\week3Switch.dll
